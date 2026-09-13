@@ -1,2 +1,7 @@
-# cryptofixyup-labs-defense-factory
-"The Platform Blueprint: Build secure, scalable SaaS in weeks, not months. Built by a solo operator who learned the hard way."
+# defense-factory #
+
+Continuous security loop for Rust services. Discovers Dependabot alerts, validates against the real dependency tree, assigns verified findings as GitHub issues.
+
+Principle: merge ≠ remediated.
+
+Built on OpenAI's Defense Factory architecture. MIT.
